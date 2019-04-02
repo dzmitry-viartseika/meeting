@@ -4,7 +4,6 @@
        <v-flex xs12>
          <v-card>
            <v-card-title>
-             {{meetup.id}}<br>
              <h6>{{meetup.title}}</h6>
            </v-card-title>
              <v-card-media
